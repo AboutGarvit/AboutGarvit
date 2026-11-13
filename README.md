@@ -1,74 +1,72 @@
 
 <div align="center">
 
-# ✦ Welcome to Solaris-3 ✦
+<img src="./assets/changli-banner.png" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Garvit;Resonator+%7C+Developer;Exploring+the+World+of+Code;Welcome+to+My+Digital+World" />
+# 🔥 ABOUT GARVIT
 
-### `RESONATOR PROFILE // DEVELOPER DATABASE`
+### ✦ Developer ✦
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](YOUR_LINKEDIN)
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&pause=1000&color=FF6655&center=true&vCenter=true&width=500&lines=Welcome+to+my+world;BTech+CSE+Student;Python+Developer;Exploring+Cybersecurity;Building+Amazing+Projects" />
+
+
 
 </div>
 
 ---
 
-## ◈ CHARACTER PROFILE
+## 🔥INTRODUCTION
 
-- 🎓 BTech CSE Student
+- 🎓 BTech Computer Science Student
 - 💻 Aspiring Software Developer
-- 🐍 Python & C Programmer
-- 🌐 Exploring Web Development
-- 🔐 Learning Cybersecurity
-- ⚡ Building projects and exploring new technologies
+- 🐍 Python and C Programmer
+- 🌐 Learning Full Stack Development
+- 🔐 Exploring Cybersecurity
+- ⚔️ Wuthering Waves Enthusiast
+- 🚀 Building creative projects
 
-> "The journey of a thousand miles begins beneath one's feet."
-
----
-
-## ◈ WEAPON ARSENAL // TECH STACK
+## ⚔️TECH STACK
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,html,css,js,flask,sqlite,git,github,vscode,linux&theme=dark" />
 </p>
 
----
-
-## ◈ RESONANCE LIBRARY // MY PROJECTS
+## 🌹PROJECTS
 
 | Project | Description |
 |---|---|
 | 🌾 FarmConnect | Digital Farmer Portal |
-| ⚔️ WuWa Telegram Bot | Wuthering Waves gaming bot |
-| 🤖 Telegram Game Bot | Strategy and battle game |
-| 🔐 File Encryption Tool | Security-based Python project |
+| 🔥 WuWa Telegram Bot | Gacha and gaming bot |
+| ⚔️ Telegram Game Bot | Strategy battle game |
+| 🔐 File Encryption Tool | Python security project |
 | 🌐 Portfolio | Personal developer website |
 
----
-
-## ◈ TERMINAL // GITHUB STATISTICS
+## 📊GITHUB STATS
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF" />
+<img src="https://github-readme-stats.vercel.app/api?username=AboutGarvit&show_icons=true&theme=dark&hide_border=true&title_color=FF6655&icon_color=FF6655" width="95%" />
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboutGarvit&layout=compact&theme=dark&hide_border=true&title_color=FF6655" width="95%" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+<img src="https://streak-stats.demolab.com?user=AboutGarvit&theme=dark&hide_border=true&ring=FF6655&fire=FF6655&currStreakLabel=FF6655" width="95%" />
+
+</div>
+
+
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AboutGarvit)
 
 </div>
 
 ---
 
-## ◈ CONNECTION ESTABLISHED
-
 <div align="center">
 
-**Thanks for visiting my terminal!**
+### 🔥 THE FLAME NEVER FADES
 
-`SYSTEM STATUS: ONLINE`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:005B75,100:00E5FF&height=120&section=footer" />
+`SOLARIS-3 // KEEP CODING // KEEP EXPLORING`
 
 </div>
