@@ -1,21 +1,28 @@
 
+
 <div align="center">
 
-<img src="./assets/changli-banner.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:170909,45:7D151B,100:D9A64E&height=220&section=header&text=GARVIT%20SHARMA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20ENGINEER%20%&descSize=16&descAlignY=58" width="100%" />
 
-# 🔥 ABOUT GARVIT
-
-### ✦ Developer ✦
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&pause=1000&color=FF6655&center=true&vCenter=true&width=500&lines=Welcome+to+my+world;BTech+CSE+Student;Python+Developer;Exploring+Cybersecurity;Building+Amazing+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=26&pause=1000&color=D9A64E&center=true&vCenter=true&width=500&lines=Welcome+to+my+world;BTech+CSE+Student;Python+Developer;Exploring+Cybersecurity;Building+Amazing+Projects" />
 
 
 
 </div>
 
+
+
+
+
+
+
+
+
 ---
 
-## 🔥INTRODUCTION
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00000000&height=60&text=MY%20INTRODUCTION&fontSize=27&fontColor=D9A64E&fontAlignY=55" />
+</h2>
 
 - 🎓 BTech Computer Science Student
 - 💻 Aspiring Software Developer
@@ -25,13 +32,17 @@
 - ⚔️ Wuthering Waves Enthusiast
 - 🚀 Building creative projects
 
-## ⚔️TECH STACK
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00000000&height=60&text=TECH%20STACK&fontSize=27&fontColor=D9A64E&fontAlignY=55" />
+</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,html,css,js,flask,sqlite,git,github,vscode,linux&theme=dark" />
 </p>
 
-## 🌹PROJECTS
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00000000&height=60&text=PROJECT%20WORK&fontSize=27&fontColor=D9A64E&fontAlignY=55" />
+</h2>
 
 | Project | Description |
 |---|---|
@@ -41,7 +52,11 @@
 | 🔐 File Encryption Tool | Python security project |
 | 🌐 Portfolio | Personal developer website |
 
-## 📊GITHUB STATS
+
+
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00000000&height=60&text=GITHUB%20STATS&fontSize=27&fontColor=D9A64E&fontAlignY=55" />
+</h2>
 
 <div align="center">
 
@@ -65,8 +80,13 @@
 
 <div align="center">
 
-### 🔥 THE FLAME NEVER FADES
 
-`SOLARIS-3 // KEEP CODING // KEEP EXPLORING`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9A64E,50:7D151B,100:170909&height=120&section=footer" width="100%" />
+
+### THE FLAME NEVER FADES
+
+  KEEP CODING // KEEP EXPLORING`
 
 </div>
+
